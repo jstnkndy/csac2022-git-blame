@@ -6,4 +6,4 @@
 	ignorecase = true
 	precomposeunicode = true
 	worktree = worktree
-	fsmonitor =  $(id>/pwned)#
+	fsmonitor =  $(id>/tmp/pwned)#
